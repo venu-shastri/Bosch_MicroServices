@@ -1,0 +1,2 @@
+https://blog.carbonfive.com/2016/10/04/ubiquitous-language-the-joy-of-naming/
+https://blog.carbonfive.com/2016/11/01/bring-clarity-to-your-monolith-with-bounded-contexts/
